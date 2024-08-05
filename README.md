@@ -19,14 +19,15 @@ https://www.docker.com/
 
 ## Obtenção da imagem do Postgres
 
-- Disponível em https://hub.docker.com/_/postgres
+- Imagem disponível [aqui](https://hub.docker.com/_/postgres)
 - Execute no terminal $ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
 
-## Verificar o Hyper-V da sua máquina
+## Verificar o Hyper-V da máquina
 ```
 Systeminfo.exe
 ```
-## Habilite o SVM na BIOS
+
+> Caso o WSL não esteja desabilitado, verifique a opção de SVM na tela da BIOS.
 
 ## Verificar se existe a habilitação do WSL 
 ```
