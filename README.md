@@ -93,6 +93,11 @@ go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
 sqlc generate -f ./internal/store/pgstore/sqlc.yaml
 ```
 
+## Inicializar o package cors
+```
+go get github.com/go-chi/cors
+```
+
 
 
 
