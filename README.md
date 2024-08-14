@@ -31,7 +31,7 @@ Systeminfo.exe
 
 ## Verificar se existe a habilitação do WSL 
 ```
-wls --list --verbose
+wsl --list --verbose
 ```
 
 ## Instalação do WSL
