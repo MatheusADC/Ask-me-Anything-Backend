@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-	// nil é nulo
 	if err := godotenv.Load(); err != nil {
 		panic(err)
 	}
