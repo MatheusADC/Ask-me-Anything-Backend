@@ -8,6 +8,4 @@ CREATE TABLE IF NOT EXISTS messages(
     FOREIGN KEY (room_id) REFERENCES rooms(id)
 );
 
----- create above / drop below ----
-
 DROP TABLE IF EXISTS messages;
