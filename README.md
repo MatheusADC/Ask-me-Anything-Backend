@@ -1,4 +1,8 @@
-# Ask-me-Anything
+# Descrição
+O código representa o back-end de um site que simula uma sala de perguntas.
+
+## Front-end
+[Front-end](https://github.com/MatheusADC/Ask-me-Anything-Frontend)
 
 ## Instalação do Golang
 ```
