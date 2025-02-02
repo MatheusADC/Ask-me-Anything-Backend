@@ -1,9 +1,10 @@
-# Descrição
+# <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="ícone de descrição" width="28"> Descrição
 O código representa o back-end de um site que simula uma sala de perguntas.
 
-## Front-end
+# <img src="https://github.com/user-attachments/assets/fdf67777-5861-475d-bf24-304484bdffc3" alt="ícone de front-end" width="28"> Front-end
 [Front-end](https://github.com/MatheusADC/Ask-me-Anything-Frontend)
 
+# <img src="https://github.com/user-attachments/assets/398d38c3-5b20-4bef-b739-1462b695a1ef" alt="ícone do Golang" width="32"> Comandos
 ## Instalação do Golang
 ```
 https://go.dev/
